@@ -1,0 +1,11 @@
+* Binding
+    1. Desabilitar um botão dinâmicamente a partir do TS.
+    2. Fazer um botão mudar de car a cada 1 segundo.
+    3. Ao clicar em um botão, exibir o id do mesmo no console.
+    4. Crie um campo tipo <select> com as opções [carro, moto, avião], ao mudar o item
+    selecionado exibir o valor em uma tag <p>.
+    5. Ao digitar um texto em um campo tipo <input>, exibir dinâmicamente numa tag <p>.
+    6. Ao clicar em um botão no form, alterar o valor value em um campo input e também refletir numa tag <p>.
+
+* Diretivas
+

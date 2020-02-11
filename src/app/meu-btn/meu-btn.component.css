@@ -1,0 +1,22 @@
+button{
+  background-color:#000;
+  color:#fff;
+  font-size:12px;
+  padding:5px;
+  text-transform: uppercase;
+  border:1px solid white;
+  border-radius:10px;
+  letter-spacing: -1px;
+}
+
+.green{
+  background:green;
+}
+
+.yellow{
+  background:yellow;
+}
+
+.red{
+  background:red;
+}
